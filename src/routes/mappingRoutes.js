@@ -23,7 +23,7 @@ const router = express.Router();
  *                 type: array
  *                 items:
  *                   type: string
- *                 example: ["marble floor", "chrome fixtures"]
+ *                 example: ["marble floor", "floating vanity"]
  *     responses:
  *       200:
  *         description: Successfully mapped materials
