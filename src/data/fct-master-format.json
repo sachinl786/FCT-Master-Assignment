@@ -1,0 +1,26 @@
+[
+    {
+      "code": "09 68 13",
+      "description": "Marble Floor Finish",
+      "unit": "SF",
+      "estimatedUnitCost": 14.50
+    },
+    {
+      "code": "10 29 00",
+      "description": "Chrome Plumbing Fixtures",
+      "unit": "EA",
+      "estimatedUnitCost": 85.00
+    },
+    {
+      "code": "06 41 23",
+      "description": "Floating Bathroom Cabinet Assembly",
+      "unit": "LF",
+      "estimatedUnitCost": 120.00
+    },
+    {
+      "code": "08 54 00",
+      "description": "Frameless Shower Enclosure",
+      "unit": "EA",
+      "estimatedUnitCost": 450.00
+    }
+  ]

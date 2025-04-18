@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+src/logs/*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+coverage/
