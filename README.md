@@ -11,7 +11,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fluid-build.git
+   git clone https://github.com/sachinl786//fluid-build.git
    cd fluid-build
     ```
 2. Install dependencies:
